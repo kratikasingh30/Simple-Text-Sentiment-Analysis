@@ -1,5 +1,0 @@
-streamlit
-nltk
-pandas
-matplotlib
-wordcloud
